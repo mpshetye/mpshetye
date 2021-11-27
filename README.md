@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Manali Shetye](https://user-images.githubusercontent.com/76164825/143696160-ffd4f8b6-7ff4-4530-9b12-fd791d9b66ce.png)
 
-<h1 align="center">Hi 👋, I'm Manali Shetye</h1>
+<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Manali Shetye</h1>
 <h3 align="center">A web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mpshetye&label=Profile%20views&color=0e75b6&style=flat" alt="mpshetye" /> </p>

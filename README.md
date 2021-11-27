@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="![Manali Shetye](https://user-images.githubusercontent.com/76164825/143696160-ffd4f8b6-7ff4-4530-9b12-fd791d9b66ce.png)" alt=”my banner”>
+![Manali Shetye](https://user-images.githubusercontent.com/76164825/143696160-ffd4f8b6-7ff4-4530-9b12-fd791d9b66ce.png)
 
 <h2 align="center">Hi 👋, I'm Manali Shetye</h1>
 <h4 align="center">A web developer from India</h3>

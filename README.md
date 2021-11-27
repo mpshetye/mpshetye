@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align=”center”>
-<img src=”![Manali Shetye](https://user-images.githubusercontent.com/76164825/143696160-ffd4f8b6-7ff4-4530-9b12-fd791d9b66ce.png)" alt=”my banner”>
+<img src="![Manali Shetye](https://user-images.githubusercontent.com/76164825/143696160-ffd4f8b6-7ff4-4530-9b12-fd791d9b66ce.png)" alt=”my banner”>
 </p>
+
+<h1 align="center">Hi 👋, I'm Manali Shetye</h1>
+<h3 align="center">A web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mpshetye&label=Profile%20views&color=0e75b6&style=flat" alt="mpshetye" /> </p>
 

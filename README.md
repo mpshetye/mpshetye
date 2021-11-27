@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align=”center”>
+
+<img width=”200" height=”200" src=”![Manali Shetye](https://user-images.githubusercontent.com/76164825/143696160-ffd4f8b6-7ff4-4530-9b12-fd791d9b66ce.png)" alt=”my banner”>
+
+</p>
